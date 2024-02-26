@@ -1,11 +1,11 @@
 # Project Name
-NaturalDisaster API
+NaturalDisaster API.
 
 # Our Challange 
 Learn backend development by creating a RESTful API using Vapor and Fluent integrated with PSQL database.
 
 # App Statment
-A RESTful API integrated with PSQL database for nature disaster tracking iOS app
+A RESTful API integrated with PSQL database for nature disaster tracking iOS app.
 
 # Feature List 
 1- Add new disaster (Post)
