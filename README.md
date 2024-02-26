@@ -1,4 +1,4 @@
-<img width="535" alt="Screenshot 2024-02-26 at 2 38 50 PM" src="https://github.com/reemaalsmari/NaturalDisaster-API-2/assets/147073707/b7bd8b58-38c4-495c-96e0-ac62a08f3eb7"># Project name
+# Project Name
 NaturalDisaster API
 
 # Our Challange 
